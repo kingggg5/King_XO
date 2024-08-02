@@ -26,8 +26,8 @@ The XO Game (also known as Tic-Tac-Toe) is a classic 3x3 grid game where two pla
    Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone [https://github.com/kingggg5/King_XO.git]
+   cd King_XO
 
 2. **Install Dependencies**
 
